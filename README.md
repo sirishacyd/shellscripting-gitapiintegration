@@ -40,7 +40,7 @@
 ubuntu@ip-172-31-36-23:~/shellscripting-gitapiintegration/githubapi$ ./list-users.sh sirishacyd cmpe282_carcorner <br> </br>
 Listing users with read access to sirishacyd/cmpe282_carcorner... <br> </br>
 Users with read access to sirishacyd/cmpe282_carcorner: <br> </br>
-hegdebhavya <br> </br>
-sirishacyd <br> </br>
-darshcloud <br> </br>
-dblessy <br> </br>
+user1  <br> </br>
+user2 <br> </br>
+user3  <br> </br>
+user4  <br> </br>
